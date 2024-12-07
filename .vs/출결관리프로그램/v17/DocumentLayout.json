@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|d:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EE9DC-BFE4-4612-95C9-58C87F2FFF6A}|\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:37:35.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginForm.cs",
+              "RelativeDocumentMoniker": "loginForm.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "loginForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:08:16.486Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:08:10.426Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvx0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:36:49.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginForm.cs",
+              "RelativeDocumentMoniker": "loginForm.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginForm.cs",
+              "RelativeToolTip": "loginForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:11:43.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:03:08.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loginForm.Designer.cs",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginForm.Designer.cs",
+              "RelativeDocumentMoniker": "loginForm.Designer.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\loginForm.Designer.cs",
+              "RelativeToolTip": "loginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:10:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\uCD9C\uACB0\uAD00\uB9AC\uD504\uB85C\uADF8\uB7A8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:09:42.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
